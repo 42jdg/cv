@@ -1,5 +1,5 @@
 # José David Guillén Domínguez
-## Software engineer (ingeniero de software)
+## Software Engineer
 [eMail](mailto://jd@infdj.com) / [WebSite](https://jd.infdj.com) / [Linkedin](https://www.linkedin.com/in/jos%C3%A9-david-guill%C3%A9n-dom%C3%ADnguez-742151a7/) / [Github](https://git.infdj.com)
 
 ![jdg](https://git.infdj.com/avatars/f563d8630a2d09c7d6548d7964bf9ccf?size=96)
@@ -69,6 +69,8 @@ network to export data to their system.
 **Frontend:** HTML / CSS / JS / TypeScript / Angular
 **Other Languages:** C#, PowerBuilder, MySQL, HANA, Bash Scripting
 
+## ⭐ Certificates
+[AZ-900](https://c.infdj.com/s/mLwii3eyTYN5Qx6) Microsoft Azure Fundamentals
 
 ## ☕ On the side
 Playing with Virtual Enviroments, like AWS and Proxmox installing and testing new releases of software like FreeNas / PfSense / Vesta CP or emerging languages (always using linux distributions)
