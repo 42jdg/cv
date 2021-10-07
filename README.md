@@ -63,10 +63,14 @@ network to export data to their system.
 
 ## 💬 Languages
 **Spanish:** Native
+
 **English:** Conversation
 
+
 **Backend:** C / C++ / CPP Builder / PHP / NodeJS / GoLang
+
 **Frontend:** HTML / CSS / JS / TypeScript / Angular
+
 **Other Languages:** C#, PowerBuilder, MySQL, HANA, Bash Scripting
 
 ## ⭐ Certificates
