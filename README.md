@@ -37,49 +37,27 @@ Experienced software developer and resolutive, able to manage the entire cycle o
 ### Remarkable projects:
 
 [SGI-ERP.es](https://app.sgi-erp.es) (2010-2015)
-
-**Could ERP system created as a SaaS using PHP for the backend and JS/HTML/CSS for the
-front end that runs on a AWS cloud platform, allowing organizations to access over the
-internet via mobile and/or desktop.** it’s multi-platform and os independent, modular,
-expandable and it’s able to integrate on all business areas (logistic, production, billing,
-etc...)
+> **Could ERP system created as a SaaS using PHP for the backend and JS/HTML/CSS for the front end that runs on a AWS cloud platform, allowing organizations to access over the internet via mobile and/or desktop.** it’s multi-platform and os independent, modular, expandable and it’s able to integrate on all business areas (logistic, production, billing, etc...)
 
 
 [Agata](https://agata.atelex.com) # { Atelex, S.L. - Servicios para hospitales y empresas } (2011)
-
-**Could application developed using PHP to manage the maintenance of medical
-equipment on public hospitals and private clinics**, the app was used by the 13 company’s
-delegations all over Spain
+> **Could application developed using PHP to manage the maintenance of medical equipment on public hospitals and private clinics**, the app was used by the 13 company’s delegations all over Spain
 
 
 [Intranet](http://www.protelsur.com) #{Protelsur} (2008-2010)
-
-**Could application developed using PHP to manage the maintenance, workorders,
-contracts, orders, invoices, and legal documentation required for private security
-companies in Spain**, the app wich is currently still active, was developed using PHP for the
-backend and HTML/JS + JQuery/CSS for the front end. (generation of signed eFactura,
-banks file export C19, link with SAGE SP for accounting)
+> **Could application developed using PHP to manage the maintenance, workorders, contracts, orders, invoices, and legal documentation required for private security companies in Spain**, the app wich is currently still active, was developed using PHP for the backend and HTML/JS + JQuery/CSS for the front end. (generation of signed eFactura, banks file export C19, link with SAGE SP for accounting)
 
 
 [Point of Sale](http://) (1999-2004) 
-
-**Point of sale, it’s a modular client/server software for touch terminals**, written in
-C++/MySQL . Some of the customers who required special customizations was “Comedores
-Heineken España” to read the employees RFID’s card and connect the terminals throw the
-network to export data to their system.
+> **Point of sale, it’s a modular client/server software for touch terminals**, written in C++/MySQL . Some of the customers who required special customizations was “Comedores Heineken España” to read the employees RFID’s card and connect the terminals throw the network to export data to their system.
 
 
 ## 💬 Languages
-
 **Spanish:** Native
-
 **English:** Conversation
 
-
 **Backend:** C / C++ / CPP Builder / PHP / NodeJS / GoLang
-
 **Frontend:** HTML / CSS / JS / TypeScript / Angular
-
 **Other Languages:** C#, PowerBuilder, MySQL, HANA, Bash Scripting
 
 ## ⭐ Certificates
