@@ -54,11 +54,16 @@ Experienced software developer and resolutive, able to manage the entire cycle o
 
 ## 💬 Languages
 **Spanish:** Native
+
 **English:** Conversation
 
+
 **Backend:** C / C++ / CPP Builder / PHP / NodeJS / GoLang
+
 **Frontend:** HTML / CSS / JS / TypeScript / Angular
+
 **Other Languages:** C#, PowerBuilder, MySQL, HANA, Bash Scripting
+
 
 ## ⭐ Certificates
 [AZ-900](https://c.infdj.com/s/mLwii3eyTYN5Qx6) Microsoft Azure Fundamentals
