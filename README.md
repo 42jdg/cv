@@ -11,7 +11,7 @@ Experienced software developer and resolutive, able to manage the entire cycle o
 * Clear communication, feedback and necessities
 * Organized in development and execution of projects, defining environments and solution
 
-## Technical Experience
+## ⌨ Technical Experience
 
 **Software Engineer** @ [Boyum-IT](https://www.boyum-it.com) (Jan 2016 - present)
 
@@ -61,7 +61,7 @@ C++/MySQL . Some of the customers who required special customizations was “Com
 Heineken España” to read the employees RFID’s card and connect the terminals throw the
 network to export data to their system.
 
-## Languages
+## 💬 Languages
 **Spanish:** Native
 **English:** Conversation
 
@@ -70,7 +70,7 @@ network to export data to their system.
 **Other Languages:** C#, PowerBuilder, MySQL, HANA, Bash Scripting
 
 
-## On the side
+## ☕ On the side
 Playing with Virtual Enviroments, like AWS and Proxmox installing and testing new releases of software like FreeNas / PfSense / Vesta CP or emerging languages (always using linux distributions)
 
 
