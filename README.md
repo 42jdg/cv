@@ -15,24 +15,24 @@ Experienced software developer and resolutive, able to manage the entire cycle o
 
 **Software Engineer** @ [Boyum-IT](https://www.boyum-it.com) (Jan 2016 - present)
 
-* Development and improvent of a manufacturing solution for SAP Business One
+* Development and improvement of a manufacturing solution for SAP Business One
 * Refactoring of legacy code to clarify, deduplicate and optimize the code following SOLID principles while improving the speed
 * Bug finder and fixer for the complex and oldest parts of the application
-* Creation of an internal application (PHP) to create reports and display a [public activity log](https://www.beascloud.com/beasweb/tfsActivityLog.php) from data collected directly from our Azure TFS using TFS API and a custom gateways for the pictures extracted from Azure
-* Taking requirements, analysis and development of a new framework to rebuild from scratch the old terminal application with the cloud as target. Some of the main challenges have been:
+* Creation of an internal application (PHP) to create reports and display a [public activity log](https://www.beascloud.com/beasweb/tfsActivityLog.php) from data collected directly from our Azure TFS using TFS API and a custom gateway for the pictures extracted from Azure
+* Taking requirements, analysis, and development of a new framework to rebuild the old terminal application with the cloud as the target from scratch. Some of the main challenges have been:
 * * Refactoring of legacy code to allow integration without code duplication
 * * APIfication of core elements to optimize communications between the core of the application and the new web modules exposing services throw an API/REST service
-* * Creation of a new vanilla JS front end framework (due the initial requirements, memory and resources limitation, this was created from scrach with zero depencies and low resources requirements focusing on handheld devices)
+* * Creation of a new vanilla JS front end framework (due to the initial requirements, memory, and resources limitation, I created the framework from scratch with zero dependencies and low resources requirements focusing on handheld devices)
 
 **Software Engineer** @ [Informática D.J. programadores](https://www.infdj.com) (1999 - 2016)
 
 * **Developing applications mainly in C / C++ for all sort of areas**, some of the more relevant customers (Atelex, Protección y Electrónica del Sur, Comedores Heineken España, …)
 * **Managing AWS servers and CI/CD integration** for the lasted projects in order to optimize the internal resources
 * **As internal milestones developed in PHP:**
-* * Migration to cloud of the whole company applications, (previously was written using C++ Builder + MySQL) and we ported it to cloud using PHP. After this we create the whole ecommerce and connected it with the PoS
+* * Migration to the cloud of the whole company applications, (previously was written using C++ Builder + MySQL) and we ported it to cloud using PHP. After this, we create the whole e-commerce and connected it with the PoS
 * * Integration with the Amazon APIs to automate received orders (any purchase made by an AMAZON customer triggered all the flow into the internal application, reserving the products, creating the sales documents, updating the stock in the ecommerce/amazon/PoS, etc..)
 * * Integration of Amazon APIs to publish and update products, using an adaptive algorithm to increase / decrease prices based on offers from other sellers.
-* * Integration of with the providers APIs to keep update the prices and products
+* * Integration with the providers APIs to keep updating the prices and products
 
 ### Remarkable projects:
 
