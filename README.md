@@ -2,7 +2,7 @@
 ## Full stack developer
 [eMail](mailto://jd@infdj.com) / [WebSite](https://jd.infdj.com) / [Linkedin](https://www.linkedin.com/in/jos%C3%A9-david-guill%C3%A9n-dom%C3%ADnguez-742151a7/) / [Github](https://git.infdj.com)
 
-![jdg](/avatars/f563d8630a2d09c7d6548d7964bf9ccf?size=96)
+![jdg](https://./avatars/f563d8630a2d09c7d6548d7964bf9ccf?size=96)
 
 Experienced software developer and resolutive, able to manage the entire cycle of any software (planning, implementation, testing, documentation, installation and maintenance) to meet customer needs:
 
