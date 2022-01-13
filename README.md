@@ -4,7 +4,7 @@
 
 ![jdg](https://git.jd.guillen.io/avatars/f563d8630a2d09c7d6548d7964bf9ccf?size=96)
 
-Experienced software developer and resolutive, able to manage the entire cycle of any software (planning, implementation, testing, documentation, installation and maintenance) to meet customer needs:
+Experienced software developer and resolutive, able to manage the entire cycle of any software (Planning, Analysis, Design, Implementation, Testing & Integration, Maintanance) to meet customer needs:
 
 * Adaptation to new programming languages and problem solving
 * Management capacity, strong analytical and troubleshooting skills
